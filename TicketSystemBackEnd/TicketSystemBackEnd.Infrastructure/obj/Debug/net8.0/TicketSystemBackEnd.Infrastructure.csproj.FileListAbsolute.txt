@@ -1,0 +1,17 @@
+C:\Users\clarit.dev01\Desktop\TicketSystem\TicketSystemBackEnd\TicketSystemBackEnd.Infrastructure\obj\Debug\net8.0\TicketSystemBackEnd.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\clarit.dev01\Desktop\TicketSystem\TicketSystemBackEnd\TicketSystemBackEnd.Infrastructure\obj\Debug\net8.0\TicketSystemBackEnd.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clarit.dev01\Desktop\TicketSystem\TicketSystemBackEnd\TicketSystemBackEnd.Infrastructure\obj\Debug\net8.0\TicketSystemBackEnd.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\clarit.dev01\Desktop\TicketSystem\TicketSystemBackEnd\TicketSystemBackEnd.Infrastructure\obj\Debug\net8.0\TicketSystemBackEnd.Infrastructure.AssemblyInfo.cs
+C:\Users\clarit.dev01\Desktop\TicketSystem\TicketSystemBackEnd\TicketSystemBackEnd.Infrastructure\obj\Debug\net8.0\TicketSystemBackEnd.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\clarit.dev01\Desktop\TicketSystem\TicketSystemBackEnd\TicketSystemBackEnd.Infrastructure\bin\Debug\net8.0\TicketSystemBackEnd.Infrastructure.deps.json
+C:\Users\clarit.dev01\Desktop\TicketSystem\TicketSystemBackEnd\TicketSystemBackEnd.Infrastructure\bin\Debug\net8.0\TicketSystemBackEnd.Infrastructure.runtimeconfig.json
+C:\Users\clarit.dev01\Desktop\TicketSystem\TicketSystemBackEnd\TicketSystemBackEnd.Infrastructure\bin\Debug\net8.0\TicketSystemBackEnd.Infrastructure.dll
+C:\Users\clarit.dev01\Desktop\TicketSystem\TicketSystemBackEnd\TicketSystemBackEnd.Infrastructure\bin\Debug\net8.0\TicketSystemBackEnd.Infrastructure.pdb
+C:\Users\clarit.dev01\Desktop\TicketSystem\TicketSystemBackEnd\TicketSystemBackEnd.Infrastructure\bin\Debug\net8.0\TicketSystemBackEnd.Core.dll
+C:\Users\clarit.dev01\Desktop\TicketSystem\TicketSystemBackEnd\TicketSystemBackEnd.Infrastructure\bin\Debug\net8.0\TicketSystemBackEnd.Core.pdb
+C:\Users\clarit.dev01\Desktop\TicketSystem\TicketSystemBackEnd\TicketSystemBackEnd.Infrastructure\obj\Debug\net8.0\TicketSy.287C44B5.Up2Date
+C:\Users\clarit.dev01\Desktop\TicketSystem\TicketSystemBackEnd\TicketSystemBackEnd.Infrastructure\obj\Debug\net8.0\TicketSystemBackEnd.Infrastructure.dll
+C:\Users\clarit.dev01\Desktop\TicketSystem\TicketSystemBackEnd\TicketSystemBackEnd.Infrastructure\obj\Debug\net8.0\refint\TicketSystemBackEnd.Infrastructure.dll
+C:\Users\clarit.dev01\Desktop\TicketSystem\TicketSystemBackEnd\TicketSystemBackEnd.Infrastructure\obj\Debug\net8.0\TicketSystemBackEnd.Infrastructure.pdb
+C:\Users\clarit.dev01\Desktop\TicketSystem\TicketSystemBackEnd\TicketSystemBackEnd.Infrastructure\obj\Debug\net8.0\TicketSystemBackEnd.Infrastructure.genruntimeconfig.cache
+C:\Users\clarit.dev01\Desktop\TicketSystem\TicketSystemBackEnd\TicketSystemBackEnd.Infrastructure\obj\Debug\net8.0\ref\TicketSystemBackEnd.Infrastructure.dll
