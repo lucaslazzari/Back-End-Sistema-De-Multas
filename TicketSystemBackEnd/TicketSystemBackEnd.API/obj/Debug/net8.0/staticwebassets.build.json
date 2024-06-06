@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "va9WIzbqJ1sSe4FUA8g7bKQWBtB7jv+Ae9lnEBb6aGc=",
+  "Source": "TicketSystemBackEnd.API",
+  "BasePath": "_content/TicketSystemBackEnd.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
