@@ -1,9 +1,13 @@
 # Sistema De Multas
 Sistema Crud De Multas utilizando .Net 8 e JWT Token para Backend e Angular 17 para Frontend
+<h4>BackEnd</h4>
+Sistema Back-end desenvolvido com .Net 8 , utilizando ddd, arquitetura limpa e padrão repository, organizando o codigo em 4 camadas, sendo a camada Core responsavel pelas entidades, exceções e interfaces das funcionalidades que agem na camada Infrastructure, a camada API, onde possui os controladores que fazem a comunicação e interação entre as camadas Application e Infrastructure , a camada Application esta responsavel pelas lógicas de negocio do sistema e faz interação direta com a camada API e recebe dados da camada Core para enviar para a Infrastructure, a camada Infrastructure pelas movimentações feitas diretamente no banco de dados, pela configuração da encriptação de senha e configuração do JWT Token , seguindo os principios SOLID deixando o codigo mais limpo, diminuindo os acoplamentos, separando as responsabilidades e facilitando na hora de manutenção e testes.
 
-- CRUD de multas.
-- Autenticação de usuários.
-- Permissão de usuário para edição e exclusão. 
+<h4>FrontEnd</h4>
+Sistema Front-end desenvolvido com Angular 17, utilizando separação de pastas para organização, tendo pasta Pages para paginas, pasta Components para os componentes Navbar e Sidebar, pasta Service para os serviços que irão se conectar diretamente com a API backend, pasta de Guard para aumentar segurança com movimentação do token e login, pasta de Models para os modelos de entrada de dados e pasta de Interceptor que possui um arquivo para interceptar as chamadas HTTP com o Jwt Token.
+
+<h4>Banco de Dados</h4>
+Banco de dados utilizando SQL Server , utilizando o Entity Framework para criação e acesso as tabelas.
 
 # Pontos Obrigatórios
 - CRUD de cadastro de Multas:
