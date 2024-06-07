@@ -60,27 +60,27 @@ nas multas.
 
 # Regras de Negocio Utilizadas
 <h4> Verificação do Número do AIT</h4>
- - Verifique se o campo NÚMERO DO AIT que foi digitado já existe na tabela MULTAS.
- - Se existir, abrir a tela 'DETALHES DO AIT' somente para visualização dos dados do primeiro registro encontrado
+ 1. Verifique se o campo NÚMERO DO AIT que foi digitado já existe na tabela MULTAS.
+ 2. Se existir, abrir a tela 'DETALHES DO AIT' somente para visualização dos dados do primeiro registro encontrado
 neste AIT.
- - Se não existir, vá para a Regra 2.
+ 3. Se não existir, vá para a Regra 2.
  
 <h4> 2. Pesquisa do AIT</h4>
- - Pesquise o AIT na string, eliminando dígitos da esquerda até encontrar dados dentro da tabela MULTAS.
- - Se encontrado, vá para a Regra 3.
- - Se não encontrado, crie um novo registro com as informações digitadas. Após registrar, abra a tela 'DETALHES
+ 1. Pesquise o AIT na string, eliminando dígitos da esquerda até encontrar dados dentro da tabela MULTAS.
+ 2. Se encontrado, vá para a Regra 3.
+ 3. Se não encontrado, crie um novo registro com as informações digitadas. Após registrar, abra a tela 'DETALHES
 DO AIT' para edição dos demais dados.
 
 <h4>Verificação da Data, Hora e Minuto da Infração</h4>
- - Verifique se a DATA, HORA, MINUTO DA INFRAÇÃO que foi digitada já existe nos registros já encontrados.
- - Se existir, vá para a Regra 4.
- - Se não existir, crie um novo registro com as informações digitadas. Após registrar, abra a tela 'DETALHES DO
+ 1. Verifique se a DATA, HORA, MINUTO DA INFRAÇÃO que foi digitada já existe nos registros já encontrados.
+ 2. Se existir, vá para a Regra 4.
+ 3. Se não existir, crie um novo registro com as informações digitadas. Após registrar, abra a tela 'DETALHES DO
 AIT' para edição dos demais dados.
 
 <h4>Verificação do Código da Infração</h4>
- - Verifique se o CÓDIGO DA INFRAÇÃO que foi digitado já existe nos registros já encontrados.
- - Se existir, vá para a Regra 5.
- - Se não existir, crie um novo registro com as informações digitadas. Após registrar, abra a tela 'DETALHES DO
+ 1. Verifique se o CÓDIGO DA INFRAÇÃO que foi digitado já existe nos registros já encontrados.
+ 2. Se existir, vá para a Regra 5.
+ 3. Se não existir, crie um novo registro com as informações digitadas. Após registrar, abra a tela 'DETALHES DO
 AIT' para edição dos demais dados.
 
 <h4>Verificação da Placa do Veículo</h4>
