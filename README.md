@@ -77,13 +77,13 @@ DO AIT' para edição dos demais dados
 - Se não existir, crie um novo registro com as informações digitadas. Após registrar, abra a tela 'DETALHES DO
 AIT' para edição dos demais dados
 
-<h4>Verificação do Código da Infração</h4>
+# Verificação do Código da Infração
 - Verifique se o CÓDIGO DA INFRAÇÃO que foi digitado já existe nos registros já encontrados
 - Se existir, vá para a Regra 5
 - Se não existir, crie um novo registro com as informações digitadas. Após registrar, abra a tela 'DETALHES DO
 AIT' para edição dos demais dados
 
-<h4>Verificação da Placa do Veículo</h4>
+# Verificação da Placa do Veículo
 - Verifique se a PLACA DO VEÍCULO que foi digitada já existe nos registros já encontrados
 - Se existir, termina com 'PENDÊNCIA AIT'
 - Se não existir, crie um novo registro com as informações digitadas. Após registrar, abra a tela 'DETALHES DO
