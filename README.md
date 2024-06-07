@@ -66,25 +66,25 @@ neste AIT.
 - Se não existir, vá para a Regra 2.
  
 <h4>Pesquisa do AIT</h4>
-- Pesquise o AIT na string, eliminando dígitos da esquerda até encontrar dados dentro da tabela MULTAS.
-- Se encontrado, vá para a Regra 3.
+- Pesquise o AIT na string, eliminando dígitos da esquerda até encontrar dados dentro da tabela MULTAS
+- Se encontrado, vá para a Regra 3
 - Se não encontrado, crie um novo registro com as informações digitadas. Após registrar, abra a tela 'DETALHES
-DO AIT' para edição dos demais dados.
+DO AIT' para edição dos demais dados
 
 <h4>Verificação da Data, Hora e Minuto da Infração</h4>
-- Verifique se a DATA, HORA, MINUTO DA INFRAÇÃO que foi digitada já existe nos registros já encontrados.
-- Se existir, vá para a Regra 4.
+- Verifique se a DATA, HORA, MINUTO DA INFRAÇÃO que foi digitada já existe nos registros já encontrados
+- Se existir, vá para a Regra 4
 - Se não existir, crie um novo registro com as informações digitadas. Após registrar, abra a tela 'DETALHES DO
-AIT' para edição dos demais dados.
+AIT' para edição dos demais dados
 
 <h4>Verificação do Código da Infração</h4>
-- Verifique se o CÓDIGO DA INFRAÇÃO que foi digitado já existe nos registros já encontrados.
-- Se existir, vá para a Regra 5.
+- Verifique se o CÓDIGO DA INFRAÇÃO que foi digitado já existe nos registros já encontrados
+- Se existir, vá para a Regra 5
 - Se não existir, crie um novo registro com as informações digitadas. Após registrar, abra a tela 'DETALHES DO
-AIT' para edição dos demais dados.
+AIT' para edição dos demais dados
 
 <h4>Verificação da Placa do Veículo</h4>
-- Verifique se a PLACA DO VEÍCULO que foi digitada já existe nos registros já encontrados.
-- Se existir, termina com 'PENDÊNCIA AIT'.
+- Verifique se a PLACA DO VEÍCULO que foi digitada já existe nos registros já encontrados
+- Se existir, termina com 'PENDÊNCIA AIT'
 - Se não existir, crie um novo registro com as informações digitadas. Após registrar, abra a tela 'DETALHES DO
-AIT' para edição dos demais dados. 
+AIT' para edição dos demais dados
