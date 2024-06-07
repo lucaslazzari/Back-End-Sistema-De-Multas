@@ -16,7 +16,7 @@ namespace TicketSystemBackEnd.API.Controllers
             _userService = userService;
         }
 
-        [HttpPost]
+        [HttpPost("createuser")]
         [Authorize(Roles = "admin")]
         public async Task<IActionResult> Post([FromBody] CreateUserInputModel inputModel) 
         {
@@ -64,7 +64,7 @@ namespace TicketSystemBackEnd.API.Controllers
 
         }
 
-        [HttpPut("login")]
+        [HttpPost("login")]
         [AllowAnonymous]
 
         public async Task<IActionResult> Login([FromBody] LoginUserInputModel inputModel)
