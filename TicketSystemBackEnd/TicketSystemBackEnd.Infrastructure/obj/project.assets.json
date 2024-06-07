@@ -4127,11 +4127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystem\\TicketSystemBackEnd\\TicketSystemBackEnd.Infrastructure\\TicketSystemBackEnd.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Infrastructure\\TicketSystemBackEnd.Infrastructure.csproj",
       "projectName": "TicketSystemBackEnd.Infrastructure",
-      "projectPath": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystem\\TicketSystemBackEnd\\TicketSystemBackEnd.Infrastructure\\TicketSystemBackEnd.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Infrastructure\\TicketSystemBackEnd.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\clarit.dev01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystem\\TicketSystemBackEnd\\TicketSystemBackEnd.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4153,8 +4153,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\clarit.dev01\\Desktop\\TicketSystem\\TicketSystemBackEnd\\TicketSystemBackEnd.Core\\TicketSystemBackEnd.Core.csproj": {
-              "projectPath": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystem\\TicketSystemBackEnd\\TicketSystemBackEnd.Core\\TicketSystemBackEnd.Core.csproj"
+            "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Core\\TicketSystemBackEnd.Core.csproj": {
+              "projectPath": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Core\\TicketSystemBackEnd.Core.csproj"
             }
           }
         }

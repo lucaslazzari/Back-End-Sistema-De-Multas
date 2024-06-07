@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S3mn3j8ormw=",
+  "dgSpecHash": "nJkcbsnKC3I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystem\\TicketSystemBackEnd\\TicketSystemBackEnd.Infrastructure\\TicketSystemBackEnd.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Infrastructure\\TicketSystemBackEnd.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\clarit.dev01\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\clarit.dev01\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

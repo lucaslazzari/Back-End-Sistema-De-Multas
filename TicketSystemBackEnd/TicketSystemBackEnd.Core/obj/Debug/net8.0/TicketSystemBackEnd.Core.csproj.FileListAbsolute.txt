@@ -9,3 +9,15 @@ C:\Users\clarit.dev01\Desktop\TicketSystem\TicketSystemBackEnd\TicketSystemBackE
 C:\Users\clarit.dev01\Desktop\TicketSystem\TicketSystemBackEnd\TicketSystemBackEnd.Core\obj\Debug\net8.0\refint\TicketSystemBackEnd.Core.dll
 C:\Users\clarit.dev01\Desktop\TicketSystem\TicketSystemBackEnd\TicketSystemBackEnd.Core\obj\Debug\net8.0\TicketSystemBackEnd.Core.pdb
 C:\Users\clarit.dev01\Desktop\TicketSystem\TicketSystemBackEnd\TicketSystemBackEnd.Core\obj\Debug\net8.0\ref\TicketSystemBackEnd.Core.dll
+C:\Users\clarit.dev01\Desktop\TicketSystemBackEnd\Back-End-Sistema-De-Multas\TicketSystemBackEnd\TicketSystemBackEnd.Core\bin\Debug\net8.0\TicketSystemBackEnd.Core.deps.json
+C:\Users\clarit.dev01\Desktop\TicketSystemBackEnd\Back-End-Sistema-De-Multas\TicketSystemBackEnd\TicketSystemBackEnd.Core\bin\Debug\net8.0\TicketSystemBackEnd.Core.dll
+C:\Users\clarit.dev01\Desktop\TicketSystemBackEnd\Back-End-Sistema-De-Multas\TicketSystemBackEnd\TicketSystemBackEnd.Core\bin\Debug\net8.0\TicketSystemBackEnd.Core.pdb
+C:\Users\clarit.dev01\Desktop\TicketSystemBackEnd\Back-End-Sistema-De-Multas\TicketSystemBackEnd\TicketSystemBackEnd.Core\obj\Debug\net8.0\TicketSystemBackEnd.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clarit.dev01\Desktop\TicketSystemBackEnd\Back-End-Sistema-De-Multas\TicketSystemBackEnd\TicketSystemBackEnd.Core\obj\Debug\net8.0\TicketSystemBackEnd.Core.AssemblyInfoInputs.cache
+C:\Users\clarit.dev01\Desktop\TicketSystemBackEnd\Back-End-Sistema-De-Multas\TicketSystemBackEnd\TicketSystemBackEnd.Core\obj\Debug\net8.0\TicketSystemBackEnd.Core.AssemblyInfo.cs
+C:\Users\clarit.dev01\Desktop\TicketSystemBackEnd\Back-End-Sistema-De-Multas\TicketSystemBackEnd\TicketSystemBackEnd.Core\obj\Debug\net8.0\TicketSystemBackEnd.Core.csproj.CoreCompileInputs.cache
+C:\Users\clarit.dev01\Desktop\TicketSystemBackEnd\Back-End-Sistema-De-Multas\TicketSystemBackEnd\TicketSystemBackEnd.Core\obj\Debug\net8.0\TicketSystemBackEnd.Core.sourcelink.json
+C:\Users\clarit.dev01\Desktop\TicketSystemBackEnd\Back-End-Sistema-De-Multas\TicketSystemBackEnd\TicketSystemBackEnd.Core\obj\Debug\net8.0\TicketSystemBackEnd.Core.dll
+C:\Users\clarit.dev01\Desktop\TicketSystemBackEnd\Back-End-Sistema-De-Multas\TicketSystemBackEnd\TicketSystemBackEnd.Core\obj\Debug\net8.0\refint\TicketSystemBackEnd.Core.dll
+C:\Users\clarit.dev01\Desktop\TicketSystemBackEnd\Back-End-Sistema-De-Multas\TicketSystemBackEnd\TicketSystemBackEnd.Core\obj\Debug\net8.0\TicketSystemBackEnd.Core.pdb
+C:\Users\clarit.dev01\Desktop\TicketSystemBackEnd\Back-End-Sistema-De-Multas\TicketSystemBackEnd\TicketSystemBackEnd.Core\obj\Debug\net8.0\ref\TicketSystemBackEnd.Core.dll

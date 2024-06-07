@@ -17,7 +17,7 @@ namespace TicketSystemBackEnd.API.Controllers
             _ticketService = ticketService;
         }
 
-        [HttpPost]
+        [HttpPost("createticket")]
         public async Task<IActionResult> Post([FromBody] CreateTicketInputModel inputModel)
         {
             try
@@ -33,7 +33,7 @@ namespace TicketSystemBackEnd.API.Controllers
             
         }
 
-        [HttpGet]
+        [HttpGet("getall")]
         public async Task<IActionResult> GetAll()
         {
             try
