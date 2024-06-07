@@ -59,19 +59,19 @@ nas multas.
 - Utilizar o comando dotnet ef database update -s  ..\TicketSystemBackEnd.API\TicketSystemBackEnd.API.csproj na CLI do Visual Studio
 
 # Regras de Negocio Utilizadas
-<h4> Verificação do Número do AIT</h4>
+# Verificação do Número do AIT
 - Verifique se o campo NÚMERO DO AIT que foi digitado já existe na tabela MULTAS.
 - Se existir, abrir a tela 'DETALHES DO AIT' somente para visualização dos dados do primeiro registro encontrado
 neste AIT.
 - Se não existir, vá para a Regra 2.
  
-<h4>Pesquisa do AIT</h4>
+# Pesquisa do AIT
 - Pesquise o AIT na string, eliminando dígitos da esquerda até encontrar dados dentro da tabela MULTAS
 - Se encontrado, vá para a Regra 3
 - Se não encontrado, crie um novo registro com as informações digitadas. Após registrar, abra a tela 'DETALHES
 DO AIT' para edição dos demais dados
 
-<h4>Verificação da Data, Hora e Minuto da Infração</h4>
+# Verificação da Data, Hora e Minuto da Infração
 - Verifique se a DATA, HORA, MINUTO DA INFRAÇÃO que foi digitada já existe nos registros já encontrados
 - Se existir, vá para a Regra 4
 - Se não existir, crie um novo registro com as informações digitadas. Após registrar, abra a tela 'DETALHES DO
