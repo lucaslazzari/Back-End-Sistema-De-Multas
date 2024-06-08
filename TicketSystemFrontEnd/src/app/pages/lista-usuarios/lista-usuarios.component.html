@@ -1,0 +1,22 @@
+<app-navbar></app-navbar>
+<app-sidebar></app-sidebar>
+
+<div class="containerListaUsuarios">
+    <div class="grupoUsuarios">
+
+        <h1>USUARIOS CADASTRADOS</h1>
+        <div class="btnUsuario" (click)="navegarParaCadastrarUsuario()">
+            <button>
+                Cadastrar Usuario
+            </button>
+        </div>
+
+        <div *ngFor="let usuario of usuarios" class="listaUsers">
+            <p>ID: {{ usuario.id }}</p>
+            <p>Email: {{ usuario.email }}</p>
+            <p>Role: {{ usuario.role }}</p>
+            <!-- Exibir outros detalhes do usuário conforme necessário -->
+        </div>
+    </div> 
+</div>
+
