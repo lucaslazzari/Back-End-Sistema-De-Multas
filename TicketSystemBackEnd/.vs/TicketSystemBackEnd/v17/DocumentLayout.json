@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{365CDCE2-7B58-4AFF-9CD4-908C1B787335}|TicketSystemBackEnd.API\\TicketSystemBackEnd.API.csproj|c:\\users\\clarit.dev01\\desktop\\ticketsystembackend\\back-end-sistema-de-multas\\ticketsystembackend\\ticketsystembackend.api\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{365CDCE2-7B58-4AFF-9CD4-908C1B787335}|TicketSystemBackEnd.API\\TicketSystemBackEnd.API.csproj|solutionrelative:ticketsystembackend.api\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{365CDCE2-7B58-4AFF-9CD4-908C1B787335}|TicketSystemBackEnd.API\\TicketSystemBackEnd.API.csproj|c:\\users\\clarit.dev01\\desktop\\ticketsystembackend\\back-end-sistema-de-multas\\ticketsystembackend\\ticketsystembackend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365CDCE2-7B58-4AFF-9CD4-908C1B787335}|TicketSystemBackEnd.API\\TicketSystemBackEnd.API.csproj|solutionrelative:ticketsystembackend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365CDCE2-7B58-4AFF-9CD4-908C1B787335}|TicketSystemBackEnd.API\\TicketSystemBackEnd.API.csproj|c:\\users\\clarit.dev01\\desktop\\ticketsystembackend\\back-end-sistema-de-multas\\ticketsystembackend\\ticketsystembackend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{365CDCE2-7B58-4AFF-9CD4-908C1B787335}|TicketSystemBackEnd.API\\TicketSystemBackEnd.API.csproj|solutionrelative:ticketsystembackend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8197FC56-E647-46E1-A96A-A997AC15AC93}|TicketSystemBackEnd.Core\\TicketSystemBackEnd.Core.csproj|c:\\users\\clarit.dev01\\desktop\\ticketsystembackend\\back-end-sistema-de-multas\\ticketsystembackend\\ticketsystembackend.core\\ticketsystembackend.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8197FC56-E647-46E1-A96A-A997AC15AC93}|TicketSystemBackEnd.Core\\TicketSystemBackEnd.Core.csproj|solutionrelative:ticketsystembackend.core\\ticketsystembackend.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{365CDCE2-7B58-4AFF-9CD4-908C1B787335}|TicketSystemBackEnd.API\\TicketSystemBackEnd.API.csproj|c:\\users\\clarit.dev01\\desktop\\ticketsystembackend\\back-end-sistema-de-multas\\ticketsystembackend\\ticketsystembackend.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{365CDCE2-7B58-4AFF-9CD4-908C1B787335}|TicketSystemBackEnd.API\\TicketSystemBackEnd.API.csproj|solutionrelative:ticketsystembackend.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{365CDCE2-7B58-4AFF-9CD4-908C1B787335}|TicketSystemBackEnd.API\\TicketSystemBackEnd.API.csproj|c:\\users\\clarit.dev01\\desktop\\ticketsystembackend\\back-end-sistema-de-multas\\ticketsystembackend\\ticketsystembackend.api\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365CDCE2-7B58-4AFF-9CD4-908C1B787335}|TicketSystemBackEnd.API\\TicketSystemBackEnd.API.csproj|solutionrelative:ticketsystembackend.api\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD82CB5-1CDC-48B9-80C1-B4C5D071002C}|TicketSystemBackEnd.Application\\TicketSystemBackEnd.Application.csproj|c:\\users\\clarit.dev01\\desktop\\ticketsystembackend\\back-end-sistema-de-multas\\ticketsystembackend\\ticketsystembackend.application\\inputmodel\\createuserinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD82CB5-1CDC-48B9-80C1-B4C5D071002C}|TicketSystemBackEnd.Application\\TicketSystemBackEnd.Application.csproj|solutionrelative:ticketsystembackend.application\\inputmodel\\createuserinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F4F888-1E66-458A-BEDC-4D814768F680}|TicketSystemBackEnd.Infrastructure\\TicketSystemBackEnd.Infrastructure.csproj|c:\\users\\clarit.dev01\\desktop\\ticketsystembackend\\back-end-sistema-de-multas\\ticketsystembackend\\ticketsystembackend.infrastructure\\persistence\\ticketsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F4F888-1E66-458A-BEDC-4D814768F680}|TicketSystemBackEnd.Infrastructure\\TicketSystemBackEnd.Infrastructure.csproj|solutionrelative:ticketsystembackend.infrastructure\\persistence\\ticketsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CAD82CB5-1CDC-48B9-80C1-B4C5D071002C}|TicketSystemBackEnd.Application\\TicketSystemBackEnd.Application.csproj|c:\\users\\clarit.dev01\\desktop\\ticketsystembackend\\back-end-sistema-de-multas\\ticketsystembackend\\ticketsystembackend.application\\viewmodel\\ticketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAD82CB5-1CDC-48B9-80C1-B4C5D071002C}|TicketSystemBackEnd.Application\\TicketSystemBackEnd.Application.csproj|solutionrelative:ticketsystembackend.application\\viewmodel\\ticketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{365CDCE2-7B58-4AFF-9CD4-908C1B787335}|TicketSystemBackEnd.API\\TicketSystemBackEnd.API.csproj|c:\\users\\clarit.dev01\\desktop\\ticketsystembackend\\back-end-sistema-de-multas\\ticketsystembackend\\ticketsystembackend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{365CDCE2-7B58-4AFF-9CD4-908C1B787335}|TicketSystemBackEnd.API\\TicketSystemBackEnd.API.csproj|solutionrelative:ticketsystembackend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{365CDCE2-7B58-4AFF-9CD4-908C1B787335}|TicketSystemBackEnd.API\\TicketSystemBackEnd.API.csproj|c:\\users\\clarit.dev01\\desktop\\ticketsystembackend\\back-end-sistema-de-multas\\ticketsystembackend\\ticketsystembackend.api\\filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365CDCE2-7B58-4AFF-9CD4-908C1B787335}|TicketSystemBackEnd.API\\TicketSystemBackEnd.API.csproj|solutionrelative:ticketsystembackend.api\\filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD82CB5-1CDC-48B9-80C1-B4C5D071002C}|TicketSystemBackEnd.Application\\TicketSystemBackEnd.Application.csproj|c:\\users\\clarit.dev01\\desktop\\ticketsystembackend\\back-end-sistema-de-multas\\ticketsystembackend\\ticketsystembackend.application\\inputmodel\\createticketinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD82CB5-1CDC-48B9-80C1-B4C5D071002C}|TicketSystemBackEnd.Application\\TicketSystemBackEnd.Application.csproj|solutionrelative:ticketsystembackend.application\\inputmodel\\createticketinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD82CB5-1CDC-48B9-80C1-B4C5D071002C}|TicketSystemBackEnd.Application\\TicketSystemBackEnd.Application.csproj|c:\\users\\clarit.dev01\\desktop\\ticketsystembackend\\back-end-sistema-de-multas\\ticketsystembackend\\ticketsystembackend.application\\validators\\createticketvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD82CB5-1CDC-48B9-80C1-B4C5D071002C}|TicketSystemBackEnd.Application\\TicketSystemBackEnd.Application.csproj|solutionrelative:ticketsystembackend.application\\validators\\createticketvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CAD82CB5-1CDC-48B9-80C1-B4C5D071002C}|TicketSystemBackEnd.Application\\TicketSystemBackEnd.Application.csproj|c:\\users\\clarit.dev01\\desktop\\ticketsystembackend\\back-end-sistema-de-multas\\ticketsystembackend\\ticketsystembackend.application\\service\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{CAD82CB5-1CDC-48B9-80C1-B4C5D071002C}|TicketSystemBackEnd.Application\\TicketSystemBackEnd.Application.csproj|solutionrelative:ticketsystembackend.application\\viewmodel\\loginuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{365CDCE2-7B58-4AFF-9CD4-908C1B787335}|TicketSystemBackEnd.API\\TicketSystemBackEnd.API.csproj|c:\\users\\clarit.dev01\\desktop\\ticketsystembackend\\back-end-sistema-de-multas\\ticketsystembackend\\ticketsystembackend.api\\filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{365CDCE2-7B58-4AFF-9CD4-908C1B787335}|TicketSystemBackEnd.API\\TicketSystemBackEnd.API.csproj|solutionrelative:ticketsystembackend.api\\filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E6F4F888-1E66-458A-BEDC-4D814768F680}|TicketSystemBackEnd.Infrastructure\\TicketSystemBackEnd.Infrastructure.csproj|c:\\users\\clarit.dev01\\desktop\\ticketsystembackend\\back-end-sistema-de-multas\\ticketsystembackend\\ticketsystembackend.infrastructure\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6F4F888-1E66-458A-BEDC-4D814768F680}|TicketSystemBackEnd.Infrastructure\\TicketSystemBackEnd.Infrastructure.csproj|solutionrelative:ticketsystembackend.infrastructure\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -45,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CAD82CB5-1CDC-48B9-80C1-B4C5D071002C}|TicketSystemBackEnd.Application\\TicketSystemBackEnd.Application.csproj|c:\\users\\clarit.dev01\\desktop\\ticketsystembackend\\back-end-sistema-de-multas\\ticketsystembackend\\ticketsystembackend.application\\validators\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAD82CB5-1CDC-48B9-80C1-B4C5D071002C}|TicketSystemBackEnd.Application\\TicketSystemBackEnd.Application.csproj|solutionrelative:ticketsystembackend.application\\validators\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD82CB5-1CDC-48B9-80C1-B4C5D071002C}|TicketSystemBackEnd.Application\\TicketSystemBackEnd.Application.csproj|c:\\users\\clarit.dev01\\desktop\\ticketsystembackend\\back-end-sistema-de-multas\\ticketsystembackend\\ticketsystembackend.application\\validators\\createticketvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAD82CB5-1CDC-48B9-80C1-B4C5D071002C}|TicketSystemBackEnd.Application\\TicketSystemBackEnd.Application.csproj|solutionrelative:ticketsystembackend.application\\validators\\createticketvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CAD82CB5-1CDC-48B9-80C1-B4C5D071002C}|TicketSystemBackEnd.Application\\TicketSystemBackEnd.Application.csproj|c:\\users\\clarit.dev01\\desktop\\ticketsystembackend\\back-end-sistema-de-multas\\ticketsystembackend\\ticketsystembackend.application\\validators\\updateticketvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -111,24 +131,8 @@
       "RelativeMoniker": "D:0:0:{8197FC56-E647-46E1-A96A-A997AC15AC93}|TicketSystemBackEnd.Core\\TicketSystemBackEnd.Core.csproj|solutionrelative:ticketsystembackend.core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAD82CB5-1CDC-48B9-80C1-B4C5D071002C}|TicketSystemBackEnd.Application\\TicketSystemBackEnd.Application.csproj|c:\\users\\clarit.dev01\\desktop\\ticketsystembackend\\back-end-sistema-de-multas\\ticketsystembackend\\ticketsystembackend.application\\inputmodel\\createuserinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAD82CB5-1CDC-48B9-80C1-B4C5D071002C}|TicketSystemBackEnd.Application\\TicketSystemBackEnd.Application.csproj|solutionrelative:ticketsystembackend.application\\inputmodel\\createuserinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD82CB5-1CDC-48B9-80C1-B4C5D071002C}|TicketSystemBackEnd.Application\\TicketSystemBackEnd.Application.csproj|c:\\users\\clarit.dev01\\desktop\\ticketsystembackend\\back-end-sistema-de-multas\\ticketsystembackend\\ticketsystembackend.application\\inputmodel\\createticketinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAD82CB5-1CDC-48B9-80C1-B4C5D071002C}|TicketSystemBackEnd.Application\\TicketSystemBackEnd.Application.csproj|solutionrelative:ticketsystembackend.application\\inputmodel\\createticketinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{365CDCE2-7B58-4AFF-9CD4-908C1B787335}|TicketSystemBackEnd.API\\TicketSystemBackEnd.API.csproj|c:\\users\\clarit.dev01\\desktop\\ticketsystembackend\\back-end-sistema-de-multas\\ticketsystembackend\\ticketsystembackend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{365CDCE2-7B58-4AFF-9CD4-908C1B787335}|TicketSystemBackEnd.API\\TicketSystemBackEnd.API.csproj|solutionrelative:ticketsystembackend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8197FC56-E647-46E1-A96A-A997AC15AC93}|TicketSystemBackEnd.Core\\TicketSystemBackEnd.Core.csproj|c:\\users\\clarit.dev01\\desktop\\ticketsystembackend\\back-end-sistema-de-multas\\ticketsystembackend\\ticketsystembackend.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8197FC56-E647-46E1-A96A-A997AC15AC93}|TicketSystemBackEnd.Core\\TicketSystemBackEnd.Core.csproj|solutionrelative:ticketsystembackend.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6F4F888-1E66-458A-BEDC-4D814768F680}|TicketSystemBackEnd.Infrastructure\\TicketSystemBackEnd.Infrastructure.csproj|c:\\users\\clarit.dev01\\desktop\\ticketsystembackend\\back-end-sistema-de-multas\\ticketsystembackend\\ticketsystembackend.infrastructure\\persistence\\ticketsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F4F888-1E66-458A-BEDC-4D814768F680}|TicketSystemBackEnd.Infrastructure\\TicketSystemBackEnd.Infrastructure.csproj|solutionrelative:ticketsystembackend.infrastructure\\persistence\\ticketsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6F4F888-1E66-458A-BEDC-4D814768F680}|TicketSystemBackEnd.Infrastructure\\TicketSystemBackEnd.Infrastructure.csproj|c:\\users\\clarit.dev01\\desktop\\ticketsystembackend\\back-end-sistema-de-multas\\ticketsystembackend\\ticketsystembackend.infrastructure\\persistence\\configurations\\ticketconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -141,10 +145,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8197FC56-E647-46E1-A96A-A997AC15AC93}|TicketSystemBackEnd.Core\\TicketSystemBackEnd.Core.csproj|c:\\users\\clarit.dev01\\desktop\\ticketsystembackend\\back-end-sistema-de-multas\\ticketsystembackend\\ticketsystembackend.core\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8197FC56-E647-46E1-A96A-A997AC15AC93}|TicketSystemBackEnd.Core\\TicketSystemBackEnd.Core.csproj|solutionrelative:ticketsystembackend.core\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8197FC56-E647-46E1-A96A-A997AC15AC93}|TicketSystemBackEnd.Core\\TicketSystemBackEnd.Core.csproj|c:\\users\\clarit.dev01\\desktop\\ticketsystembackend\\back-end-sistema-de-multas\\ticketsystembackend\\ticketsystembackend.core\\ticketsystembackend.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8197FC56-E647-46E1-A96A-A997AC15AC93}|TicketSystemBackEnd.Core\\TicketSystemBackEnd.Core.csproj|solutionrelative:ticketsystembackend.core\\ticketsystembackend.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -158,115 +158,72 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.API\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "TicketSystemBackEnd.API\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.API\\Controllers\\UserController.cs",
-              "RelativeToolTip": "TicketSystemBackEnd.API\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAxwEYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T21:59:06.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\Service\\Implementations\\UserService.cs",
-              "RelativeDocumentMoniker": "TicketSystemBackEnd.Application\\Service\\Implementations\\UserService.cs",
-              "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\Service\\Implementations\\UserService.cs",
-              "RelativeToolTip": "TicketSystemBackEnd.Application\\Service\\Implementations\\UserService.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAkwEAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T21:32:03.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Infrastructure\\Auth\\AuthService.cs",
-              "RelativeDocumentMoniker": "TicketSystemBackEnd.Infrastructure\\Auth\\AuthService.cs",
-              "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Infrastructure\\Auth\\AuthService.cs",
-              "RelativeToolTip": "TicketSystemBackEnd.Infrastructure\\Auth\\AuthService.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA7wBwAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T22:32:09.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "LoginUserViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\ViewModel\\LoginUserViewModel.cs",
-              "RelativeDocumentMoniker": "TicketSystemBackEnd.Application\\ViewModel\\LoginUserViewModel.cs",
-              "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\ViewModel\\LoginUserViewModel.cs",
-              "RelativeToolTip": "TicketSystemBackEnd.Application\\ViewModel\\LoginUserViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Title": "TicketSystemDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Infrastructure\\Persistence\\TicketSystemDbContext.cs",
+              "RelativeDocumentMoniker": "TicketSystemBackEnd.Infrastructure\\Persistence\\TicketSystemDbContext.cs",
+              "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Infrastructure\\Persistence\\TicketSystemDbContext.cs",
+              "RelativeToolTip": "TicketSystemBackEnd.Infrastructure\\Persistence\\TicketSystemDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T21:56:16.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TicketController.cs",
-              "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.API\\Controllers\\TicketController.cs",
-              "RelativeDocumentMoniker": "TicketSystemBackEnd.API\\Controllers\\TicketController.cs",
-              "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.API\\Controllers\\TicketController.cs",
-              "RelativeToolTip": "TicketSystemBackEnd.API\\Controllers\\TicketController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwC4AAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T03:24:21.29Z",
+              "WhenOpened": "2024-06-05T20:59:55.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UserViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\ViewModel\\UserViewModel.cs",
-              "RelativeDocumentMoniker": "TicketSystemBackEnd.Application\\ViewModel\\UserViewModel.cs",
-              "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\ViewModel\\UserViewModel.cs",
-              "RelativeToolTip": "TicketSystemBackEnd.Application\\ViewModel\\UserViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Title": "CreateUserInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\InputModel\\CreateUserInputModel.cs",
+              "RelativeDocumentMoniker": "TicketSystemBackEnd.Application\\InputModel\\CreateUserInputModel.cs",
+              "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\InputModel\\CreateUserInputModel.cs",
+              "RelativeToolTip": "TicketSystemBackEnd.Application\\InputModel\\CreateUserInputModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T01:27:17.078Z",
+              "WhenOpened": "2024-06-05T21:33:54.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TicketSystemBackEnd.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.API\\appsettings.json",
+              "RelativeToolTip": "TicketSystemBackEnd.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T21:10:04.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketSystemBackEnd.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Core\\TicketSystemBackEnd.Core.csproj",
+              "RelativeDocumentMoniker": "TicketSystemBackEnd.Core\\TicketSystemBackEnd.Core.csproj",
+              "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Core\\TicketSystemBackEnd.Core.csproj",
+              "RelativeToolTip": "TicketSystemBackEnd.Core\\TicketSystemBackEnd.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-05T22:31:06.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.API\\Program.cs",
               "RelativeDocumentMoniker": "TicketSystemBackEnd.API\\Program.cs",
               "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.API\\Program.cs",
               "RelativeToolTip": "TicketSystemBackEnd.API\\Program.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAFQAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T21:10:19.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TicketViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\ViewModel\\TicketViewModel.cs",
-              "RelativeDocumentMoniker": "TicketSystemBackEnd.Application\\ViewModel\\TicketViewModel.cs",
-              "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\ViewModel\\TicketViewModel.cs",
-              "RelativeToolTip": "TicketSystemBackEnd.Application\\ViewModel\\TicketViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T01:39:35.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ValidationFilter.cs",
               "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.API\\Filters\\ValidationFilter.cs",
               "RelativeDocumentMoniker": "TicketSystemBackEnd.API\\Filters\\ValidationFilter.cs",
@@ -279,7 +236,128 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\ViewModel\\TicketViewModel.cs",
+              "RelativeDocumentMoniker": "TicketSystemBackEnd.Application\\ViewModel\\TicketViewModel.cs",
+              "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\ViewModel\\TicketViewModel.cs",
+              "RelativeToolTip": "TicketSystemBackEnd.Application\\ViewModel\\TicketViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T01:39:35.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.API\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "TicketSystemBackEnd.API\\Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.API\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "TicketSystemBackEnd.API\\Controllers\\TicketController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T03:24:21.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TicketSystemBackEnd.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TicketSystemBackEnd.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:59:06.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "CreateTicketInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\InputModel\\CreateTicketInputModel.cs",
+              "RelativeDocumentMoniker": "TicketSystemBackEnd.Application\\InputModel\\CreateTicketInputModel.cs",
+              "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\InputModel\\CreateTicketInputModel.cs",
+              "RelativeToolTip": "TicketSystemBackEnd.Application\\InputModel\\CreateTicketInputModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T01:37:07.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateTicketValidator.cs",
+              "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\Validators\\CreateTicketValidator.cs",
+              "RelativeDocumentMoniker": "TicketSystemBackEnd.Application\\Validators\\CreateTicketValidator.cs",
+              "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\Validators\\CreateTicketValidator.cs",
+              "RelativeToolTip": "TicketSystemBackEnd.Application\\Validators\\CreateTicketValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:18:40.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\ViewModel\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "TicketSystemBackEnd.Application\\ViewModel\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\ViewModel\\UserViewModel.cs",
+              "RelativeToolTip": "TicketSystemBackEnd.Application\\ViewModel\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T01:27:17.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\ViewModel\\LoginUserViewModel.cs",
+              "RelativeDocumentMoniker": "TicketSystemBackEnd.Application\\ViewModel\\LoginUserViewModel.cs",
+              "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\ViewModel\\LoginUserViewModel.cs",
+              "RelativeToolTip": "TicketSystemBackEnd.Application\\ViewModel\\LoginUserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:56:16.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Infrastructure\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "TicketSystemBackEnd.Infrastructure\\Auth\\AuthService.cs",
+              "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Infrastructure\\Auth\\AuthService.cs",
+              "RelativeToolTip": "TicketSystemBackEnd.Infrastructure\\Auth\\AuthService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwBwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T22:32:09.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\Service\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "TicketSystemBackEnd.Application\\Service\\Implementations\\UserService.cs",
+              "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\Service\\Implementations\\UserService.cs",
+              "RelativeToolTip": "TicketSystemBackEnd.Application\\Service\\Implementations\\UserService.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAkwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:32:03.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "LoginUserValidator.cs",
               "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\Validators\\LoginUserValidator.cs",
               "RelativeDocumentMoniker": "TicketSystemBackEnd.Application\\Validators\\LoginUserValidator.cs",
@@ -292,57 +370,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "CreateUserValidator.cs",
               "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\Validators\\CreateUserValidator.cs",
               "RelativeDocumentMoniker": "TicketSystemBackEnd.Application\\Validators\\CreateUserValidator.cs",
               "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\Validators\\CreateUserValidator.cs",
               "RelativeToolTip": "TicketSystemBackEnd.Application\\Validators\\CreateUserValidator.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAABGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBQAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T15:06:58.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CreateTicketValidator.cs",
-              "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\Validators\\CreateTicketValidator.cs",
-              "RelativeDocumentMoniker": "TicketSystemBackEnd.Application\\Validators\\CreateTicketValidator.cs",
-              "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\Validators\\CreateTicketValidator.cs",
-              "RelativeToolTip": "TicketSystemBackEnd.Application\\Validators\\CreateTicketValidator.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T15:18:40.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "ITicketService.cs",
               "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\Service\\Interfaces\\ITicketService.cs",
               "RelativeDocumentMoniker": "TicketSystemBackEnd.Application\\Service\\Interfaces\\ITicketService.cs",
               "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\Service\\Interfaces\\ITicketService.cs",
               "RelativeToolTip": "TicketSystemBackEnd.Application\\Service\\Interfaces\\ITicketService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA8AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T01:35:26.451Z"
+              "WhenOpened": "2024-06-06T01:35:26.451Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "TicketService.cs",
               "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\Service\\Implementations\\TicketService.cs",
               "RelativeDocumentMoniker": "TicketSystemBackEnd.Application\\Service\\Implementations\\TicketService.cs",
               "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\Service\\Implementations\\TicketService.cs",
               "RelativeToolTip": "TicketSystemBackEnd.Application\\Service\\Implementations\\TicketService.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAQwBQAAABMAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAzwBQAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T01:35:33.632Z"
+              "WhenOpened": "2024-06-06T01:35:33.632Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "UpdateTicketValidator.cs",
               "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\Validators\\UpdateTicketValidator.cs",
               "RelativeDocumentMoniker": "TicketSystemBackEnd.Application\\Validators\\UpdateTicketValidator.cs",
@@ -350,23 +417,25 @@
               "RelativeToolTip": "TicketSystemBackEnd.Application\\Validators\\UpdateTicketValidator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T15:18:30.407Z"
+              "WhenOpened": "2024-06-06T15:18:30.407Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "PendingAITException.cs",
               "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Core\\Exceptions\\PendingAITException.cs",
               "RelativeDocumentMoniker": "TicketSystemBackEnd.Core\\Exceptions\\PendingAITException.cs",
               "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Core\\Exceptions\\PendingAITException.cs",
               "RelativeToolTip": "TicketSystemBackEnd.Core\\Exceptions\\PendingAITException.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAzwAQAAAA6AAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAQAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:01:41.313Z"
+              "WhenOpened": "2024-06-06T16:01:41.313Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "TicketNonExistException.cs",
               "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Core\\Exceptions\\TicketNonExistException.cs",
               "RelativeDocumentMoniker": "TicketSystemBackEnd.Core\\Exceptions\\TicketNonExistException.cs",
@@ -374,11 +443,12 @@
               "RelativeToolTip": "TicketSystemBackEnd.Core\\Exceptions\\TicketNonExistException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T15:58:14.676Z"
+              "WhenOpened": "2024-06-06T15:58:14.676Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "UserAlredyExistException.cs",
               "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Core\\Exceptions\\UserAlredyExistException.cs",
               "RelativeDocumentMoniker": "TicketSystemBackEnd.Core\\Exceptions\\UserAlredyExistException.cs",
@@ -386,11 +456,12 @@
               "RelativeToolTip": "TicketSystemBackEnd.Core\\Exceptions\\UserAlredyExistException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T13:32:42.444Z"
+              "WhenOpened": "2024-06-06T13:32:42.444Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "UserNonExistException.cs",
               "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Core\\Exceptions\\UserNonExistException.cs",
               "RelativeDocumentMoniker": "TicketSystemBackEnd.Core\\Exceptions\\UserNonExistException.cs",
@@ -398,11 +469,12 @@
               "RelativeToolTip": "TicketSystemBackEnd.Core\\Exceptions\\UserNonExistException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T14:22:04.071Z"
+              "WhenOpened": "2024-06-06T14:22:04.071Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\Service\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "TicketSystemBackEnd.Application\\Service\\Interfaces\\IUserService.cs",
@@ -410,11 +482,12 @@
               "RelativeToolTip": "TicketSystemBackEnd.Application\\Service\\Interfaces\\IUserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T21:31:56.916Z"
+              "WhenOpened": "2024-06-05T21:31:56.916Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "UpdateTicketInputModel.cs",
               "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\InputModel\\UpdateTicketInputModel.cs",
               "RelativeDocumentMoniker": "TicketSystemBackEnd.Application\\InputModel\\UpdateTicketInputModel.cs",
@@ -422,11 +495,12 @@
               "RelativeToolTip": "TicketSystemBackEnd.Application\\InputModel\\UpdateTicketInputModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T13:57:22.353Z"
+              "WhenOpened": "2024-06-06T13:57:22.353Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "LoginUserInputModel.cs",
               "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\InputModel\\LoginUserInputModel.cs",
               "RelativeDocumentMoniker": "TicketSystemBackEnd.Application\\InputModel\\LoginUserInputModel.cs",
@@ -434,11 +508,12 @@
               "RelativeToolTip": "TicketSystemBackEnd.Application\\InputModel\\LoginUserInputModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T15:04:23.865Z"
+              "WhenOpened": "2024-06-06T15:04:23.865Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "UserConfigurations.cs",
               "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Infrastructure\\Persistence\\Configurations\\UserConfigurations.cs",
               "RelativeDocumentMoniker": "TicketSystemBackEnd.Infrastructure\\Persistence\\Configurations\\UserConfigurations.cs",
@@ -446,11 +521,12 @@
               "RelativeToolTip": "TicketSystemBackEnd.Infrastructure\\Persistence\\Configurations\\UserConfigurations.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T21:08:15.241Z"
+              "WhenOpened": "2024-06-05T21:08:15.241Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "TicketRepository.cs",
               "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Infrastructure\\Persistence\\Repositories\\TicketRepository.cs",
               "RelativeDocumentMoniker": "TicketSystemBackEnd.Infrastructure\\Persistence\\Repositories\\TicketRepository.cs",
@@ -458,11 +534,12 @@
               "RelativeToolTip": "TicketSystemBackEnd.Infrastructure\\Persistence\\Repositories\\TicketRepository.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAgwBwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T01:45:05.465Z"
+              "WhenOpened": "2024-06-06T01:45:05.465Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "ITicketRepository.cs",
               "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Core\\Repositories\\ITicketRepository.cs",
               "RelativeDocumentMoniker": "TicketSystemBackEnd.Core\\Repositories\\ITicketRepository.cs",
@@ -470,23 +547,25 @@
               "RelativeToolTip": "TicketSystemBackEnd.Core\\Repositories\\ITicketRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T01:44:44.83Z"
+              "WhenOpened": "2024-06-06T01:44:44.83Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "TicketSystemBackEnd.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
               "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "TicketSystemBackEnd.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBUAAAAMAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T22:25:28.323Z"
+              "WhenOpened": "2024-06-05T22:25:28.323Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Core\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "TicketSystemBackEnd.Core\\Repositories\\IUserRepository.cs",
@@ -494,47 +573,12 @@
               "RelativeToolTip": "TicketSystemBackEnd.Core\\Repositories\\IUserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T22:25:50.397Z"
+              "WhenOpened": "2024-06-05T22:25:50.397Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "CreateUserInputModel.cs",
-              "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\InputModel\\CreateUserInputModel.cs",
-              "RelativeDocumentMoniker": "TicketSystemBackEnd.Application\\InputModel\\CreateUserInputModel.cs",
-              "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\InputModel\\CreateUserInputModel.cs",
-              "RelativeToolTip": "TicketSystemBackEnd.Application\\InputModel\\CreateUserInputModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T21:33:54.101Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "CreateTicketInputModel.cs",
-              "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\InputModel\\CreateTicketInputModel.cs",
-              "RelativeDocumentMoniker": "TicketSystemBackEnd.Application\\InputModel\\CreateTicketInputModel.cs",
-              "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Application\\InputModel\\CreateTicketInputModel.cs",
-              "RelativeToolTip": "TicketSystemBackEnd.Application\\InputModel\\CreateTicketInputModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T01:37:07.068Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.API\\appsettings.json",
-              "RelativeDocumentMoniker": "TicketSystemBackEnd.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.API\\appsettings.json",
-              "RelativeToolTip": "TicketSystemBackEnd.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-05T21:10:04.597Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "TicketConfigurations.cs",
               "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Infrastructure\\Persistence\\Configurations\\TicketConfigurations.cs",
               "RelativeDocumentMoniker": "TicketSystemBackEnd.Infrastructure\\Persistence\\Configurations\\TicketConfigurations.cs",
@@ -542,11 +586,12 @@
               "RelativeToolTip": "TicketSystemBackEnd.Infrastructure\\Persistence\\Configurations\\TicketConfigurations.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T21:09:12.835Z"
+              "WhenOpened": "2024-06-05T21:09:12.835Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Core\\Entities\\User.cs",
               "RelativeDocumentMoniker": "TicketSystemBackEnd.Core\\Entities\\User.cs",
@@ -554,23 +599,12 @@
               "RelativeToolTip": "TicketSystemBackEnd.Core\\Entities\\User.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAYwBEAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T20:55:32.089Z"
+              "WhenOpened": "2024-06-05T20:55:32.089Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "TicketSystemDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Infrastructure\\Persistence\\TicketSystemDbContext.cs",
-              "RelativeDocumentMoniker": "TicketSystemBackEnd.Infrastructure\\Persistence\\TicketSystemDbContext.cs",
-              "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Infrastructure\\Persistence\\TicketSystemDbContext.cs",
-              "RelativeToolTip": "TicketSystemBackEnd.Infrastructure\\Persistence\\TicketSystemDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T20:59:55.345Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Ticket.cs",
               "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Core\\Entities\\Ticket.cs",
               "RelativeDocumentMoniker": "TicketSystemBackEnd.Core\\Entities\\Ticket.cs",
@@ -578,11 +612,12 @@
               "RelativeToolTip": "TicketSystemBackEnd.Core\\Entities\\Ticket.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T20:55:38.917Z"
+              "WhenOpened": "2024-06-05T20:55:38.917Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Core\\Services\\IAuthService.cs",
               "RelativeDocumentMoniker": "TicketSystemBackEnd.Core\\Services\\IAuthService.cs",
@@ -590,19 +625,8 @@
               "RelativeToolTip": "TicketSystemBackEnd.Core\\Services\\IAuthService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T22:34:21.006Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "TicketSystemBackEnd.Core.csproj",
-              "DocumentMoniker": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Core\\TicketSystemBackEnd.Core.csproj",
-              "RelativeDocumentMoniker": "TicketSystemBackEnd.Core\\TicketSystemBackEnd.Core.csproj",
-              "ToolTip": "C:\\Users\\clarit.dev01\\Desktop\\TicketSystemBackEnd\\Back-End-Sistema-De-Multas\\TicketSystemBackEnd\\TicketSystemBackEnd.Core\\TicketSystemBackEnd.Core.csproj",
-              "RelativeToolTip": "TicketSystemBackEnd.Core\\TicketSystemBackEnd.Core.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-05T22:31:06.453Z"
+              "WhenOpened": "2024-06-05T22:34:21.006Z",
+              "EditorCaption": ""
             }
           ]
         }
