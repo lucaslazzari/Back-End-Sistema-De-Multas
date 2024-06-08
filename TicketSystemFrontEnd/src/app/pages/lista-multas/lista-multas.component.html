@@ -1,0 +1,21 @@
+<app-navbar></app-navbar>
+<app-sidebar></app-sidebar>
+
+<div class="containerListaMultas">
+    <div class="grupoMultas">
+        
+        <h1>MULTAS CADASTRADAS</h1>
+        <div class="btnMulta" (click)="navegarParaCadastrarMulta()">
+            <button>
+                Cadastrar Multa
+            </button>
+        </div>
+        <div *ngFor="let multa of multas" class="listaMultas">
+            <p>Ait: {{ multa.ait }}</p>
+            <p>FineDate: {{ multa.fineDate }}</p>
+            <p>FineCode: {{ multa.fineCode }}</p>
+            <p>Plate: {{ multa.plate }}</p>
+            <!-- Exibir outros detalhes do usuário conforme necessário -->
+        </div>
+    </div> 
+</div>

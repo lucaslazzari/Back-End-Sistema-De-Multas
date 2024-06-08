@@ -1,0 +1,41 @@
+<app-navbar></app-navbar>
+<app-sidebar></app-sidebar>
+
+<div class="container-base">
+
+    <div class="content-page">
+    
+        <h1>
+            Cadastro de Multa
+        </h1>
+
+        <form class="form-page" [formGroup]="usuarioForm" (submit)="enviar()">
+            <div class="group-input">
+                    <div class="text-info">E-Mail</div>
+                    <input class="input-form" type="email" nome="email" id="email" placeholder="E-mail" formControlName="email" required />
+                    <label class="error-input" *ngIf="usuarioForm.get('email')?.errors?.['required'] && usuarioForm.get('email')?.touched">
+                        Campo Obrigatório
+                    </label>
+            </div>
+            <div class="group-input">
+                    <div class="text-info">Senha</div>
+                    <input class="input-form" type="password" nome="password" id="password" placeholder="Senha" formControlName="password" required />
+                    <label class="error-input" *ngIf="usuarioForm.get('password')?.errors?.['required'] && usuarioForm.get('password')?.touched">
+                        Campo Obrigatório
+                    </label>
+            </div>
+            <div class="group-input">
+                    <div class="text-info">Nivel de Acesso</div>
+                    <input class="input-form" type="text" nome="role" id="role" placeholder="Acesso" formControlName="role" required />
+                    <label class="error-input" *ngIf="usuarioForm.get('role')?.errors?.['required'] && usuarioForm.get('role')?.touched">
+                        Campo Obrigatório
+                    </label>
+            </div>
+            <div class="group-input">
+                <input type="submit" value="Salvar" class="btn-enviar"/>
+            </div>                    
+        </form>
+
+    </div>
+
+</div>

@@ -1,0 +1,26 @@
+<div class="container-sidebar">
+
+    <div class="grupo-menu">
+        <div class="container-icone-menu">
+            <div class="caixa-menu caixa-menu-texto" (click) = "selectMenu(1)" [ngClass]="{'caixa-menu-select': menuService.menuSelecionado == 1, '': menuService.menuSelecionado!=1}">
+                Usuarios
+            </div>
+        </div>
+    </div>
+
+    <div class="grupo-menu">
+        <div class="container-icone-menu">
+            <div class="caixa-menu caixa-menu-texto" (click) = "selectMenu(2)" [ngClass]="{'caixa-menu-select': menuService.menuSelecionado == 2, '': menuService.menuSelecionado!=2}">
+                Multas
+            </div>
+        </div>
+    </div>
+
+    <div class="grupo-menu">
+        <div class="container-icone-menu">
+            <div class="caixa-menu caixa-menu-texto" (click) = "sair()">
+                Sair
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,47 @@
+.containerListaMultas{
+    background-color: goldenrod; 
+    display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+     .grupoMultas{
+         margin-top: 200px;
+         margin-bottom: 200px;
+         display: block;
+
+         h1{
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            width: 600px;
+         }
+
+         
+         .btnMulta{
+            justify-content: right;
+            align-items: end;
+            text-align: right;
+            
+            button{
+                background-color: #F7F2BB;
+                border-radius: 10px;
+                font-size: 20px;
+                padding: 10px;
+                margin-top: 10px;
+                margin-bottom: 20px;
+                cursor: pointer;
+            }
+         }
+
+         .listaMultas{
+             margin-top: 10px;
+             background-color: #F7F2BB;
+             border-radius: 10px;
+             width: 600px;
+             justify-content: center;
+             align-items: center;
+             padding: 10px;
+        }
+     }
+    
+ }

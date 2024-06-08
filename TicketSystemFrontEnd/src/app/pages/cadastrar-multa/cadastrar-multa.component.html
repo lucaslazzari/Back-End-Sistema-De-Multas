@@ -1,0 +1,48 @@
+<app-navbar></app-navbar>
+<app-sidebar></app-sidebar>
+
+<div class="container-base">
+
+    <div class="content-page">
+    
+        <h1>
+            Cadastro de Multa
+        </h1>
+
+        <form class="form-page" [formGroup]="multaForm" (submit)="enviar()">
+            <div class="group-input">
+                    <div class="text-info">AIT</div>
+                    <input class="input-form" type="text" nome="ait" id="ait" placeholder="ait" formControlName="ait" required />
+                    <label class="error-input" *ngIf="multaForm.get('ait')?.errors?.['required'] && multaForm.get('ait')?.touched">
+                        Campo Obrigatório
+                    </label>
+            </div>
+            <div class="group-input">
+                    <div class="text-info">Data Da Multa</div>
+                    <input class="input-form" type="datetime-local" nome="fineDate" id="fineDate" placeholder="Data da multa" formControlName="fineDate" required />
+                    <label class="error-input" *ngIf="multaForm.get('fineDate')?.errors?.['required'] && multaForm.get('fineDate')?.touched">
+                        Campo Obrigatório
+                    </label>
+            </div>
+            <div class="group-input">
+                    <div class="text-info">Codigo</div>
+                    <input class="input-form" type="text" nome="fineCode" id="fineCode" placeholder="fineCode" formControlName="fineCode" required />
+                    <label class="error-input" *ngIf="multaForm.get('data')?.errors?.['required'] && multaForm.get('data')?.touched">
+                        Campo Obrigatório
+                    </label>
+            </div>
+            <div class="group-input">
+                    <div class="text-info">Placa do Veiculo</div>
+                    <input class="input-form" type="text" nome="plate" id="plate" placeholder="plate" formControlName="plate" required />
+                    <label class="error-input" *ngIf="multaForm.get('plate')?.errors?.['required'] && multaForm.get('plate')?.touched">
+                        Campo Obrigatório
+                    </label>
+            </div>
+            <div class="group-input">
+                <input type="submit" value="Salvar" class="btn-enviar"/>
+            </div>                    
+        </form>
+
+    </div>
+
+</div>
